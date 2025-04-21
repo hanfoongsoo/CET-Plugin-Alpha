@@ -47,6 +47,12 @@ print(example)
 
 ---
 
+## Online Demo
+You can interact with this plugin via the Hugging Face live demo:
+👉 [CET Plugin Alpha Demo on Hugging Face](https://huggingface.co/spaces/hanfoongsoo/CET-Plugin-Alpha-Demo)
+
+---
+
 ## Authorship & Attribution
 This structural model was originally discovered and formulated by **Hanfoong Soo** in **March 2025**.
 
